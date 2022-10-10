@@ -21,11 +21,3 @@
 
 
 ![Dördüncü Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/4.png)
-
-
-
-
-![Main Page](https://github.com/muratcandan/cripto-currency/blob/main/public/main_page.png)
-
-
-![Inside Page](https://github.com/muratcandan/cripto-currency/blob/main/public/inside_page.png)
