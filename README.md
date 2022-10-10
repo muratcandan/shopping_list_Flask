@@ -1,4 +1,4 @@
-# Alışveriş Listesi (Flask)
+# Alışveriş Listesi
 
 
 ## İçerik
