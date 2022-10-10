@@ -1,3 +1,3 @@
 # Alışveriş Listesi (Flask)
 
-##Bu proje Techcareer.net'in düzenlediği Python Bootcamp'in final projesidir. 
+## Bu proje Techcareer.net'in düzenlediği Python Bootcamp'in final projesidir. 
