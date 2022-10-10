@@ -5,7 +5,11 @@
 ## Sitede Flask kütüphanesi ve SQL kullanılmıştır. Ekleme, kaldırma ve düzenleme etkinliklerinizi yapabilirsiniz.
 
 ![Ana Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/1.png)
+
 ![İkinci Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/2.png)
+
 ![Üçüncü Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/3.png)
+
 ![Dördüncü Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/4.png)
+
 
