@@ -11,13 +11,13 @@
 
 ## Resimler:
 
-![Ana Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/1.png)
+![Ana Sayfa](https://github.com/muratcandan/shopping_list_Flask/blob/main/img/1.png)
 
 
-![İkinci Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/2.png)
+![İkinci Sayfa](https://github.com/muratcandan/shopping_list_Flask/blob/main/img/2.png)
 
 
-![Üçüncü Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/3.png)
+![Üçüncü Sayfa](https://github.com/muratcandan/shopping_list_Flask/blob/main/img/3.png)
 
 
-![Dördüncü Sayfa](https://github.com/muratcandan/shopping_list_flask/blob/main/shopping_list_flask/img/4.png)
+![Dördüncü Sayfa](https://github.com/muratcandan/shopping_list_Flask/blob/main/img/4.png)
